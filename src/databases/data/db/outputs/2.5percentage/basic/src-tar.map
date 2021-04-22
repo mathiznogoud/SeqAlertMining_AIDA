@@ -1,0 +1,9 @@
+0,Recon.Scanning
+1,Anomaly.Traffic
+2,Attempt.Login
+3,Availability.DoS
+4,Availability.DDoS
+5,Attempt.Exploit
+6,Information.UnauthorizedAccess
+7,Malware.Trojan
+8,Other
